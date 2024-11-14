@@ -15034,3 +15034,37 @@ li {
   height: 40px;
 }
 
+
+/* ================== Modification =========================== */
+.privacy_policy{
+  background-color: lightgray;
+}  
+
+.privacy_policy h1{
+  text-align: center;
+  font-size: 60px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.privacy_policy p{
+  font-size: 17px;
+  padding: 10px;
+}
+
+.privacy_wrapper{
+  background-color: #fff;
+  box-shadow: 3px solid #f2e7c3;
+  border-radius: 5px;
+  margin-bottom: 80px;
+  padding: 30px
+}
+
+.privacy_wrapper span{
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: -20px;
+}
+
+.privacy_policy .heading{
+  text-align: center;
+}
