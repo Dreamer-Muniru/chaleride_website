@@ -15065,6 +15065,10 @@ li {
   margin-bottom: -20px;
 }
 
+.privacy_wrapper h5{
+  color: lightslategray;
+}
+
 .privacy_policy .heading{
   text-align: center;
 }
